@@ -9,8 +9,7 @@
 
 ### 🌷 Sobre mí
 
-- 🎨 Amo el arte, el diseño y la programación.
-- 🌸 Me encanta crear proyectos con amor y detalles lindos.
+- 🎨 Amo el arte y la programación.
 - 💻 Aprendo cada día y quiero ser una gran programadora.
 - 💖 Sueño con hacer tecnología bonita y útil para todos.
 
